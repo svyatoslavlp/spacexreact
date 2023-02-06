@@ -3,7 +3,7 @@ import Header from "./components/Header/Header";
 import Main from "./components/Main/Main";
 import Features from "./components/Features/Features";
 import Footer from "./components/Footer/Footer";
-// import Calendar from "./components/Calendar/Calendar";
+import Calendar from "./components/Calendar/Calendar";
 // import Details from "./components/Details/Details";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <Main />
       <Features />
       <Footer />
-      {/* <Calendar /> */}
+      <Calendar />
       {/* <Details /> */}
     </>
   );
